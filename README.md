@@ -2,7 +2,7 @@
 
 A high-performance load balancer written in Go that supports multiple backend servers and health checks.
 
-Created by Rudra
+Created by Amit
 
 ## Features
 
